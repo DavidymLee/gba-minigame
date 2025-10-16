@@ -1,7 +1,7 @@
 # Fly Swatter Game (GBA Mode 3)
 
 **Author:** David Yoonmin Lee  
-**Course:** CS 2110 
+**Course:** CS 2110  
 **Platform:** Game Boy Advance (GBA)  
 **Language:** C (DMA Graphics, Embedded Systems)
 
